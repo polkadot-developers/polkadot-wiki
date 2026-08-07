@@ -9,6 +9,8 @@ Kusama is a _canary network_ for Polkadot; an earlier release of the code that i
 and holds real economic value. For developers, Kusama is a proving ground for runtime upgrades,
 on-chain governance, and parachains.
 
+> Live latency benchmarks for Kusama RPC endpoints (p50/p90/p99, 3 regions, updated every 60 s): [OpenChainBench Kusama RPC](https://openchainbench.com/benchmarks/kusama-rpc)
+
 !!!info "No Promises"
     Kusama is owned by those who hold the Kusama tokens (KSM). There's no central kill switch and all
     changes are made through the protocol's on-chain governance.
